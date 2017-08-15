@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/florianhutter/Burger.git"
+    "url": "git+https://github.com/florianhutter/burger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/florianhutter/Burger/issues"
+    "url": "https://github.com/florianhutter/burger/issues"
   },
-  "homepage": "https://github.com/florianhutter/Burger#readme"
+  "homepage": "https://github.com/florianhutter/burger#readme"
 }
